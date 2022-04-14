@@ -1,8 +1,10 @@
 # Todo_List
 
+<br><br>
+
 Create a to-do list with functions like adding or deleting task, storing in local storage and some animations.
 
-<br><br><br>
+<br><br>
 
 Example:
 
